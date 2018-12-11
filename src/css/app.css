@@ -1,0 +1,13 @@
+.space {
+    height: 200px;
+    width: 1000px;
+}
+
+.position {
+    position: absolute;
+    top: 150px
+}
+
+.app {
+    height: 100vh;
+}
